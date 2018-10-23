@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>   //MOD
 #include<conio.h>
 #include<fstream>
 #include<stdio.h>
@@ -50,7 +50,7 @@ void hotel::main_menu()
     {
         
        system("cls");
-        cout<<"\n\t\t\t\t\t\t\t\t\t*************";
+        cout<<"\n\t\t\t\t\t\t\t\t\t**********";
         cout<<"\n\t\t\t\t\t\t\t\t\t* MAIN MENU *";
         cout<<"\n\t\t\t\t\t\t\t\t\t*************";
         cout<<"\n\n\n\t\t\t\t\t\t\t\t\t1.Book A Room";
