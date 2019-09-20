@@ -8,7 +8,7 @@
 using namespace std;
 class hotel
 {
-    int room;
+    int room_no;
     char name[20];
     char address[50];
     char phone[10];
